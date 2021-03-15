@@ -17,12 +17,12 @@ Opponent Selection: I will be able to select which pokemon I am fighting.
 Recommendation: The app will display the possible moveset for the opponent selected and recommend which of my team to use according to defense and which attack to use according to the opponent's defense.
 
 ### Technologies
-C#
-JavaScript
-HTML
-CSS
-VisualStudio
-MySQL
+C# | 
+JavaScript | 
+HTML | 
+CSS | 
+VisualStudio | 
+MySQL | 
 ASP.NET
 
 I expect that this list will continue to change as my project comes along.
